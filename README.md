@@ -10,7 +10,7 @@ def get_greeting_data() -> dict:
 ```
 
 <h3 align="center"> ⚙  Languages & Tools & other cool stuff ⚙ </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luckmer&label=Profile%20views&color=0e75b6&style=flat" alt="lorow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lorow&label=Profile%20views&color=0e75b6&style=flat" alt="lorow" /> </p>
 <p align="center">
 <img   src = "https://img.shields.io/badge/pycharm-brightgreen?style=for-the-badge "alt ="pycharm"/>
 <img   src = "https://img.shields.io/badge/python-brightblue?style=for-the-badge "alt ="python"/>
